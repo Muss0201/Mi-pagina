@@ -1,0 +1,15 @@
+.cabecera-postulantes {
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 40px;
+}
+
+.container h3 {
+    color: #000000;
+}
+
+.container p {
+    color: #a20598;
+    line-height: 1.6;
+}
